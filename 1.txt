@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+
+
+int main() {
+    int dollars=2, rupees;
+ 
+    rupees = dollars * 80;
+    
+    printf("rupees is %d", rupees);
+    
+    return 0;
+}

@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+   int feet=9, inches;
+    
+    
+    inches = feet * 12;
+    
+    printf(" inches is :%d",inches);
+    
+    return 0;
+}

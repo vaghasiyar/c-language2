@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+    int inches=4, centimeters;
+    
+   
+    centimeters = inches * 2.54;
+    
+    printf(" centimeters is :%d",centimeters);
+    
+    return 0;
+}
